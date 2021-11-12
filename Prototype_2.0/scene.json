@@ -4,6 +4,17 @@
     "favicon": "favicon_asset",
     "navmapThumbnail": "scene-thumbnail.png"
   },
+  "spawnPoints": [
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 10,
+        "y": 5,
+        "z": 7.75
+      }
+    }
+  ],
   "owner": "",
   "contact": {
     "name": "author-name",
@@ -47,4 +58,5 @@
       "cols": 3
     }
   }
+  
 }
